@@ -1,0 +1,129 @@
+.bloghny-page ul.share-post li.whatsapp {
+    background: #2ab200;
+    width: 36px;
+    height: 36px;
+    color: #fff;
+}
+.w3l-blog a.blog-desc.blog-desc-c{
+    font-size: 17px !important;
+}
+.cover-courses{
+    background-color: var(--primary-color) !important;height:350px;display:flex;align-items:center;justify-content:center;padding:10px;border-radius:5px;
+}
+.main-courses{
+    display:flex;align-items:center;justify-content:center;background-color:white;padding:10px;border-radius:5px;
+}
+.arrange-courses{
+    overflow: hidden;text-overflow: ellipsis;height:190px;
+}
+.arrange-courses h3{
+    margin-bottom: 10px;
+    font-size: 19px !important;
+}
+.arrange-courses p{
+    font-size: 15px !important;
+}
+.price-courses{
+    margin: 10px 0px 5px 0px;
+}
+.button-courses{
+    margin-top: 10px;
+}
+.w3l-blog div.job{
+    font-size: 13px !important;
+}
+.w3l-blog .card-footer button .fa{
+    margin-left: 5px !important;
+}
+.w3l-blog .card-footer button{
+    width: 100% !important;
+}
+.w3l-blog div.quote{
+    font-size: 14px !important;
+}
+.p-content{
+    margin-bottom: 20px !important;
+    font-style: normal !important;
+    font-variant-ligatures: normal !important;
+    font-variant-caps: normal !important;
+    font-weight: 400 !important;
+    font-size: 15px !important;
+}
+.blog-single-author-date.d-sm-flex.align-items-center{
+    font-size: 14px;
+}
+.blog-w3hny-right .post-custom .text a{
+    font-size: 15px !important;
+    /* margin-bottom: 50px !important; */
+}
+.blog-w3hny-right .post-custom .text{
+    margin-bottom: 5px !important;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px !important;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1 !important; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888 !important; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555 !important; 
+  }
+.blog-w3hny-right .post-custom .post-info{
+    font-size: 13px !important;
+}
+.w3l-blog a.blog-desc.blog-desc-custom{
+    font-size: 17px !important;
+}
+.w3l-blog p.mt-1.p-mt-1-custom{
+    font-size: 15px !important;
+}
+.w3l-blog img.card-img-bottom.card-img-bottom-custom{
+    height: 230px;
+    object-fit: cover;
+}
+.blog-w3hny-right .sidebar-widget .blog-cat li{
+    margin-bottom: 10px !important;
+}
+.w3l-blog .arr-blog{
+    height: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+.w3l-blog .price-review p{
+    font-size: 15px !important;
+}
+.alert-primary{
+    background-color: var(--primary-color) !important;
+    color: white !important;
+}
+.alert-body button.close span,
+.alert-body button.close{
+    color: white !important;
+    font-weight: bolder;
+    opacity: 1 !important;
+}
+.w3l-main-slider h3.title-hero-19{
+    font-size: 18px !important;
+    line-height: normal !important;
+    margin-top: 20px !important;
+    font-weight: normal !important;
+}
+.w3l-main-slider h5{
+    font-size: 40px !important;
+    line-height: 24px !important;
+    font-weight: bolder !important;
+    color: white !important;
+}
+.navbar .search-right .popup form input[type="search"] {
+    color: white !important;
+}
